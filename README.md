@@ -134,8 +134,8 @@ This project demonstrates how Power BI transforms raw business data into actiona
 
 ## 🖼 Dashboard Preview
 
-![Overview](dashboard.png)
-![Sales](dashboard2.png)
-![Profit](dashboard3.png)
-![Supply](dashboard4.png)
-![Target vs Performance](dashboard5.png).
+![Dashboard 1](dashboard1.png)
+![Dashboard 2](dashboard2.png)
+![Dashboard 3](dashboard3.png)
+![Dashboard 4](dashboard4.png)
+![Dashboard 5](dashboard5.png)
